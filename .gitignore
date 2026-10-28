@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment settings and secrets
+.env
+.env.*
+!.env.example
+
+# Java build output
+java24/target/
